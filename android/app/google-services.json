@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290472148201",
+    "firebase_url": "https://authenticationmatevibes-default-rtdb.firebaseio.com",
+    "project_id": "authenticationmatevibes",
+    "storage_bucket": "authenticationmatevibes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290472148201:android:35ca48376991804250c478",
+        "android_client_info": {
+          "package_name": "com.example.mate_vibes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290472148201-4osm3mc3evtec791arid65sqhd478e8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQnPbAyWvr8a4QOZv9yHhHKtyqUSIDFPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290472148201-4osm3mc3evtec791arid65sqhd478e8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
